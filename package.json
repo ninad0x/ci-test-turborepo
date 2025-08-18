@@ -1,5 +1,5 @@
 {
-  "name": "week-25-CICD",
+  "name": "cicd",
   "private": true,
   "scripts": {
     "build": "turbo run build",
